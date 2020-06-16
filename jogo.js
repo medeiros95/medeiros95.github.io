@@ -39,7 +39,7 @@ function posicaoRandomica(){
         vidas ++
         }
     }
-
+    // posicao randomica
     var posicaoX = Math.floor(Math.random() * largura) - 90
     var posicaoY = Math.floor(Math.random() * altura) - 90
 
@@ -48,7 +48,7 @@ function posicaoRandomica(){
 
     console.log(posicaoX, posicaoY)
 
-    //criar elemento html
+    //criar elemento html (mosquito)
 
     var mosquito = document.createElement('img')
     mosquito.src = 'imagens/mosca.png'
@@ -65,6 +65,7 @@ function posicaoRandomica(){
     
 }
 
+// tamanho aleatorio do mosquito
 function tamanhoAleatorio(){
     var classe = Math.floor(Math.random() * 3)
 
@@ -78,6 +79,7 @@ function tamanhoAleatorio(){
     }
 }
 
+//lado aleatorio do mosquito
 function ladoAleatorio(){
     var classe = Math.floor(Math.random() * 2)
 
