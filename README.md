@@ -11,9 +11,12 @@ Na pagina inicial o jogador escolhe o tipo de dificuldade da partida, onde os 3 
 
 
 ## Layout
-![Web 1](https://.png)
+![Web 1](https://github.com/medeiros95/medeiros95.github.io/blob/master/assets/menu%20inicial.png)
 
-![Web 2](https://.png)
+![Web 2](https://github.com/medeiros95/medeiros95.github.io/blob/master/assets/dificuldade.png)
+
+![Web 3](https://github.com/medeiros95/medeiros95.github.io/blob/master/assets/jogo.png)
+
 
 
 # Tecnologias utilizadas
